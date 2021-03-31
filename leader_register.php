@@ -238,7 +238,7 @@ if($qry){
      <div class="form-group">
 	 <label style="font-size:20px"> Password <label   class="text-danger">*</label></label>
          
-         <input name="password" type="password" class="form-control" id="email" placeholder="Your password">
+         <input name="password" type="password" class="form-control"  placeholder="Your password">
      </div>
 
      </div>

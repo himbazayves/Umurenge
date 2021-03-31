@@ -18,7 +18,7 @@
 				<div class="col-md-12 col-md-offset-0 text-center">
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
-							<h1>UMURENGE INFORMATION SYSTEM</h1>
+							<h1>ONLINE SECTOR MANAGEMENT INFORMATION SYSTEM</h1>
 							<h2>If don't have an acount signup here to use the system</h2>
 							<p>
 								<a href="citizen_register.php" class="btn btn-primary btn-lg">Citizen</a> 
